@@ -1,8 +1,9 @@
 <h2>Hey 👋, I'm <a href="https://sarthak.page">Sarthak</a></h2>
 <p>I'm a software developer based in St. John's. I am working on some side projects, learning a couple new dishes.</p>
 <p><a href="https://sarthak.page"><img src="https://img.shields.io/badge/-sarthak.page-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://sarthak.page" alt="Website Badge"></a>
- <a href="https://www.linkedin.com/in/sarthakgandhi1/"><img src="https://img.shields.io/badge/-@sarthakgandhi1-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/sarthakgandhi1/" alt="LinkedIn Badge"></a>
+ <a href="https://www.linkedin.com/in/sarthakgandhi1/"><img src="https://custom-icon-badges.demolab.com/badge/sarthakgandhi1-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/sarthakgandhi1/" alt="LinkedIn Badge"></a>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+</p>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://nextresume.app">next-resume</a>.</li>

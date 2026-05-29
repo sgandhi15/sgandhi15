@@ -6,7 +6,6 @@
 </p>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/sgandhi15/nextresume-public">next-resume</a>.</li>
 <li>🧐 Learning about <strong>system architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>📝 I <del>regulary</del> write articles on <a href="https://sarthak.page">my blog</a>.</li>
 <li>💬 Ping me about <strong>cloud, security, and machine learning</strong>.</li>

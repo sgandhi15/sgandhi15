@@ -1,10 +1,5 @@
 ## Hey, I'm Sarthak
 
-```ts
-const sarthak = {
-  role: "software developer",
-  location: "St. John's",
-  currently: ["building side projects", "learning a couple new dishes"],
-  contact: "me@sarthak.page",
-};
-```
+Software developer based in St. John's. Currently shipping side projects and debugging a couple new recipes in the kitchen.
+
+Ping me at me@sarthak.page

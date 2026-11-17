@@ -1,5 +1,5 @@
 ## Hey, I'm Sarthak
 
-Software developer based in St. John's. Currently shipping side projects and debugging a couple new recipes in the kitchen.
+Software developer in St. John's. I ship side projects and debug recipes, with mixed results on both.
 
 Ping me at me@sarthak.page
